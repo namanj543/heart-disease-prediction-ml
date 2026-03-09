@@ -38,6 +38,8 @@ Random Forest and Logistic Regression achieved the highest accuracy of **88.33%*
 - Seaborn
 - Google Colab
 
+
+
 ## Research Paper
 IEEE-style research paper included in this repository.
 
@@ -55,6 +57,15 @@ IEEE-style research paper included in this repository.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://github.com/namanj543/heart-disease-prediction-ml/blob/main/heart_disease_prediction.ipynb)
+
+## Project Structure
+
+- heart_disease_prediction.ipynb : Machine learning model notebook
+- heart.csv : Cleveland Heart Disease dataset
+- workflow.png : System workflow diagram
+- confusion_matrix.png : Model evaluation
+- roc_curve.png : ROC curve of classifier
+- heart_disease_ml_research_paper.pdf : Research paper
 
 
 Author: Naman Jain
